@@ -1,10 +1,11 @@
 CreateSqlOra
 =============
-##### CSV 파일 내 컬럼 정보로 테이블 생성 Oracle SQL문 자동화 코드 작성
+##### CSV 파일 내 컬럼 정보로 테이블 생성 SQL문 자동화 코드 작성
 - - -
 < 파일 수정 내역 >
 |파일명|업로드 일자|수정내역|
 |---|---|---|
+|CreateSqlOra_1.2v.py|2024-07-08-월|ORA-00907 에러 해결|
 |CreateSqlOra_1.1v.py|2024-07-08-월|UnicodeDecode 에러 해결|
 |CreateSqlOra_1.0v.py|2024-07-08-월|최초 업로드|
 - - -
