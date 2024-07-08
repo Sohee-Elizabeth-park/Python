@@ -2,10 +2,16 @@ CreateSqlOra
 =============
 ##### CSV 파일 내 컬럼 정보로 테이블 생성 SQL문 자동화 코드 작성
 - - -
+< 파일 수정 내역 >
+|파일명|업로드 일자|수정내역|
+|---|---|---|
+|CreateSqlOra_1.1v.py|2024-07-08-월|UnicodeDecode 에러 해결|
+|CreateSqlOra_1.0v.py|2024-07-08-월|최초 업로드|
+- - -
 
 ||설명|
 |---|---|
-|**작성일**|2024-06-20-목|
+|**작성일**|2024-07-08-목|
 |**개발 목적**|테이블 정의서(.xlsx)를 바탕으로 Oracle DB에 테이블 생성 필요로 인한 테이블 생성 쿼리 작성이 번거로운 문제 해결 위함|
 |**Skills**|Python 3.12.4, Pandas, Oracle 12 Client, Oracle Server 11g|
 |**Tool용**|VSC, DBeaver|
